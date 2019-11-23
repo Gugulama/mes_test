@@ -1,0 +1,31 @@
+{
+	"questins":[
+		"assda",
+		"asdasd",
+		"asdasd"
+	  ],
+	"hypothesis": [
+		{ "statrWith":0.5,
+		 "hypothesiss":
+		  [{
+			"ifTrue":0.25,
+			"ifFalse":0.95
+		  },
+		  {
+			"ifTrue":0.25,
+			"ifFalse":0.95
+		  }]
+		},
+		{ "statrWith":0.5,
+		 "hypothesiss":
+		  [{
+			"ifTrue":0.25,
+			"ifFalse":0.95
+		  },
+		  {
+			"ifTrue":0.25,
+			"ifFalse":0.95
+		  }]
+		}
+	  ]
+}
